@@ -1,0 +1,1 @@
+print("There is/are" , 10 - eval(input("The amount of chicken in the hen:")), "rooster(s) in the hen.")
