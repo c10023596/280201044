@@ -1,0 +1,1 @@
+print((float(input("Type in the Celsius you want to converse:"))*1.8)+32)
