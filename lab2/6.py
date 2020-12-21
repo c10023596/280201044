@@ -1,7 +1,7 @@
 print("You have a quadratic equation. Now to calculate the amount of roots you have, you have to input parameters of the equation.")
-a = int(input("The first parameter: "))
-b = int(input("The second parameter: "))
-c = int(input("The third parameter: "))
+a = float(input("The first parameter: "))
+b = float(input("The second parameter: "))
+c = float(input("The third parameter: "))
 
 delta = b**2 - 4*a*c
 
